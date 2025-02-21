@@ -115,4 +115,10 @@ Judul praktikum : Switching <hr>
     <img src="https://github.com/user-attachments/assets/54a40ca9-85ad-4a07-b2de-e155a9988728" alt="Image" width="400"> <br>
 
 18. Melihat status VTP pada CLIENT <br>
-    <img src="https://github.com/user-attachments/assets/9dda3cb6-c655-4a8e-b628-ad457adfeeba" alt="Image" width="400"> <br>
+    <img src="https://github.com/user-attachments/assets/9dda3cb6-c655-4a8e-b628-ad457adfeeba" alt="Image" width="400"> <hr>
+
+**analisis :** <br>
+Praktikum ini bertujuan untuk mendalami konfigurasi VLAN dan VTP pada switch guna meningkatkan efisiensi serta keamanan jaringan. Metode yang digunakan mencakup perancangan topologi jaringan, konfigurasi dasar switch, pengaturan VLAN, dan penerapan VTP untuk menyinkronkan VLAN antar switch. Hasil percobaan menunjukkan bahwa konfigurasi VLAN berhasil diterapkan, di mana perangkat dalam VLAN yang sama dapat saling berkomunikasi, sementara VTP mempermudah distribusi VLAN. Namun, tantangan seperti sinkronisasi konfigurasi masih perlu diperhatikan. Secara keseluruhan, penggunaan VLAN dan VTP terbukti efektif dalam pengelolaan jaringan, dengan penguatan keamanan switch yang tetap menjadi aspek penting untuk mencegah akses tidak sah. <br>
+
+**kesimpulan** <br>
+Konfigurasi VLAN dan VTP pada switch terbukti efektif dalam meningkatkan efisiensi serta keamanan jaringan. VLAN memungkinkan segmentasi jaringan sehingga komunikasi antar perangkat lebih terstruktur, sedangkan VTP mempermudah manajemen VLAN dengan sinkronisasi otomatis antar switch. Namun, tantangan seperti sinkronisasi konfigurasi perlu diperhatikan guna menghindari inkonsistensi dalam jaringan. Selain itu, pengamanan switch perlu diperkuat untuk mencegah akses tidak sah dan menjaga stabilitas jaringan. Dengan penerapan yang tepat, VLAN dan VTP dapat menjadi solusi optimal dalam pengelolaan infrastruktur jaringan. <br>
